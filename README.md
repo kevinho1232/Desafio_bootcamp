@@ -5,3 +5,7 @@ Este aplicativo e de uma livraria, para começar tem que informar o nome de usu�
 Opção 1 - Digitar o nome do livro.
 Opção 2 - Visualizar os nomes dos livros salvos.
 Opção 3 - Sair do aplicativo.
+
+|***************************** |
+|  Aplicativo roda em console  |
+|***************************** |
